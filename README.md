@@ -1,4 +1,4 @@
-# bin2dec-equipoX
+# bin2dec-equipo_tal
 Aplicación interactiva para convertir números binarios a decimales (Bin2Dec Tier 1), resolviendo la necesidad de calcular y comprender conversiones numéricas de forma rápida mediante una interfaz sencilla alcanzable en esta práctica
 
 # Bin2Dec - Convertidor de Binario a Decimal
