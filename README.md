@@ -22,9 +22,9 @@ Aplicación que permite convertir números del sistema binario a decimal de form
 ---
 
 ## 👥 Integrantes del equipo
-- **Andrés Molina Espinoza** — [@am4525300-star](https://github.com/am4525300-star)
-- **Kevin Peña Ontiveros** — @usuario_github_2
-- **Cristofer Herrera** — @usuario_github_3
+- **Andrés Molina Espinoza** — [@AndMolina25](https://github.com/AndMolina25)
+- **Kevin Peña Ontiveros** — @[@kevin-peña](github.com/alexanderontiveros983-crypto)
+- **Cristofer Herrera** — [@crizz78](https://github.com/crizz78)
 
 ---
 
