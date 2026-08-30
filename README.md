@@ -1,5 +1,5 @@
 # bin2dec-equipoX
-Convertidor de números binarios a decimales (Bin2Dec) desarrollado para la Práctica 1 de Fundamentos de Ingeniería de Software.
+Aplicación interactiva para convertir números binarios a decimales (Bin2Dec Tier 1), resolviendo la necesidad de calcular y comprender conversiones numéricas de forma rápida mediante una interfaz sencilla alcanzable en esta práctica
 
 # Bin2Dec - Convertidor de Binario a Decimal
 
